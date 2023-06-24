@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Provincia de Ica</title>
+    <link rel="stylesheet" href="css/ica.css">
+</head>
+<body>
+
+    <!--header design-->
+    <header class="header">
+        <a href="#" class="logo">Provincia de Ica</a>
+    </header>
+
+    <!--home section design-->
+    <section class="Ica" id="Ica">
+        <div class="Ica-content">
+            <p>La provincia de Ica se creó por decreto el 4 de agosto de 1821, cuando</p>
+            <p>el Perú organizaba su territorio en regiones, departamentos y distritos</p>
+            <p>Ica (La Ciudad del Eterno Sol) es la provincia de mayor extensión del</p>
+            <p>departamento de Ica. Es zona de extensas áreas desérticas, caluroso y</p>
+            <p>sofocante de enero a abril.</p>
+            <p>Ciudad del centro sur del Perú, capital del Departamento de Ica, situada</p>
+            <p>en el estrecho valle que forma el río Ica, entre el Gran Tablazo de Ica y</p>
+            <p>las laderas occidentales de la Cordillera de los Andes. Se destaca por la</p>
+            <p>agricultura extensiva y la agroexportación.</p>
+        </div>
+        <div class="Ica-img">
+            <img src="ae8d600d1f69ff9a8ba15d9fccb7b779.jpg" alt="">
+        </div>
+    </section>
+</body>
+</html>
